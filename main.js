@@ -61,7 +61,7 @@ productManager.addProducts({
     description:"Descripción del primer producto.",
     price :20,
     thumbnail :"https://via.placeholder.com/50x50?text",
-    code: 001,
+    code: 1,
     stock:34,
 })
 
@@ -70,7 +70,7 @@ productManager.addProducts({
     description:"Descripción del segundo producto.",
     price :30,
     thumbnail :"https://via.placeholder2.com/50x50?text",
-    code: 002,
+    code: 2,
     stock:31,
 })
 
@@ -79,7 +79,7 @@ productManager.addProducts({
     description:"Descripción del segundo producto.",
     price :60,
     thumbnail :"https://via.placeholder2.com/50x50?text",
-    code: 002,
+    code: 3,
     stock:123,
 })
 
